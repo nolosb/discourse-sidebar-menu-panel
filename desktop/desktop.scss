@@ -1,0 +1,11 @@
+.d-header .wrap .contents {
+  .panel {
+    order: 10;
+  }
+  .header-sidebar-toggle {
+    order: 9;
+    button {
+      margin-right: unset;
+    }
+  }
+}
