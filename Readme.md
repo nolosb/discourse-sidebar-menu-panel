@@ -1,4 +1,4 @@
-A Discourse theme component doing two simple adjustments:
+A Discourse theme component. Does two simple adjustments:
 
 - Moves the sidebar menu toggle to the right of the header
 
